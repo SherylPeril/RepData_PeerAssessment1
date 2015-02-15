@@ -2,6 +2,7 @@
 Reproducible Research Peer Assessment 1
 =======================================
 
+
 First, we unzip the data file in the Github repository:
 
 ```{r, echo = "FALSE"}
